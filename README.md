@@ -1,7 +1,7 @@
 # 🌍 Global Inflation Analysis
 
 ## 📌 Project Overview
-This project builds a complete **data pipeline** to collect, clean, explore, and statistically analyze global inflation data from the World Bank. Using four indicators (inflation, GDP growth, GDP per capita, unemployment) spanning 1990–2023 for 240+ countries, I uncover regional patterns, temporal shifts, and relationships with economic growth and income levels.
+This project builds a complete **data pipeline** to collect, clean, explore, and statistically analyze global inflation data from the World Bank. Using four indicators (inflation, GDP growth, GDP per capita, unemployment) spanning 1990–2023 for countries worldwide, I uncover regional patterns, temporal shifts, and relationships with economic growth and income levels.
 
 ## 🎯 Research Questions
 - Are there significant differences in inflation rates across regions?
@@ -63,7 +63,7 @@ global-inflation-analysis/
 ├── 03_exploratory_analysis.ipynb
 ├── 04_statistical_analysis.ipynb
 │
-├── inflation_cleaned.csv              (optional, may be deleted after cleaning)
+├── inflation_clean.csv              (optional, may be deleted after cleaning)
 ├── inflation_cleaned.csv
 ├── country_summary.csv
 │
